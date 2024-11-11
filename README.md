@@ -1,2 +1,4 @@
 # coading
-myself ambrish kasaudhan . i am currently pursuing B.tech in Computer Science and Engineering
+myself ambrish kasaudhan .
+<br/>
+i am currently pursuing B.tech in Computer Science and Engineering
